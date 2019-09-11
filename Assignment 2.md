@@ -22,3 +22,7 @@
         re-submit/submit additional files
         view average grades on assignments
         
+ ## System Requirements
+ ###   Components
+        Server
+        Database
